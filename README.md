@@ -3,7 +3,7 @@
 AI-powered football intelligence platform combining predictive analytics, Monte Carlo simulation, real multi-agent orchestration, live-data-ready connectors, Executive War Room briefings and Mistral AI strategic reasoning.
 
 <p align="center">
-  <img src="assets/architecture.png" width="100%" alt="World Cup Intelligence Center Architecture" />
+  <img src="Architecture.png" width="100%" alt="World Cup Intelligence Center Architecture" />
 </p>
 
 ## What this project demonstrates
@@ -169,7 +169,7 @@ This project is production-ready in structure, but any real commercial deploymen
 Building AI-powered decision systems, multi-agent platforms and intelligent analytics solutions.
 
 
-## Phase 12 — True 10/10 Upgrade
+## Lastest version Upgrade Worldcup Command Center
 
 The latest version adds a real LangGraph execution path, live data SSL resilience and premium provider diagnostics.
 
