@@ -1,0 +1,13 @@
+services:
+  worldcup-intelligence-center:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      MISTRAL_API_KEY: ${MISTRAL_API_KEY:-}
+      MISTRAL_MODEL: ${MISTRAL_MODEL:-mistral-medium-latest}
+      MISTRAL_TIMEOUT_SECONDS: ${MISTRAL_TIMEOUT_SECONDS:-12}
+      API_FOOTBALL_KEY: ${API_FOOTBALL_KEY:-}
+      FOOTBALL_DATA_API_KEY: ${FOOTBALL_DATA_API_KEY:-}
+      LIVE_DATA_TIMEOUT_SECONDS: ${LIVE_DATA_TIMEOUT_SECONDS:-10}
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}

@@ -1,0 +1,241 @@
+date,home_team,away_team,home_goals,away_goals,competition,source
+2026-01-15,Mexico,Friendly Opponent 1,2,1,Recent internationals cache,historical_results_seed
+2026-02-15,Mexico,Friendly Opponent 2,1,1,Recent internationals cache,historical_results_seed
+2026-03-15,Mexico,Friendly Opponent 3,2,1,Recent internationals cache,historical_results_seed
+2026-04-15,Mexico,Friendly Opponent 4,4,1,Recent internationals cache,historical_results_seed
+2026-05-15,Mexico,Friendly Opponent 5,2,2,Recent internationals cache,historical_results_seed
+2026-01-15,South Africa,Friendly Opponent 1,2,0,Recent internationals cache,historical_results_seed
+2026-02-15,South Africa,Friendly Opponent 2,4,0,Recent internationals cache,historical_results_seed
+2026-03-15,South Africa,Friendly Opponent 3,1,1,Recent internationals cache,historical_results_seed
+2026-04-15,South Africa,Friendly Opponent 4,1,2,Recent internationals cache,historical_results_seed
+2026-05-15,South Africa,Friendly Opponent 5,3,0,Recent internationals cache,historical_results_seed
+2026-01-15,Korea Republic,Friendly Opponent 1,4,1,Recent internationals cache,historical_results_seed
+2026-02-15,Korea Republic,Friendly Opponent 2,2,2,Recent internationals cache,historical_results_seed
+2026-03-15,Korea Republic,Friendly Opponent 3,2,1,Recent internationals cache,historical_results_seed
+2026-04-15,Korea Republic,Friendly Opponent 4,3,1,Recent internationals cache,historical_results_seed
+2026-05-15,Korea Republic,Friendly Opponent 5,1,3,Recent internationals cache,historical_results_seed
+2026-01-15,Czechia,Friendly Opponent 1,4,0,Recent internationals cache,historical_results_seed
+2026-02-15,Czechia,Friendly Opponent 2,1,2,Recent internationals cache,historical_results_seed
+2026-03-15,Czechia,Friendly Opponent 3,4,1,Recent internationals cache,historical_results_seed
+2026-04-15,Czechia,Friendly Opponent 4,2,2,Recent internationals cache,historical_results_seed
+2026-05-15,Czechia,Friendly Opponent 5,3,0,Recent internationals cache,historical_results_seed
+2026-01-15,Canada,Friendly Opponent 1,4,1,Recent internationals cache,historical_results_seed
+2026-02-15,Canada,Friendly Opponent 2,1,1,Recent internationals cache,historical_results_seed
+2026-03-15,Canada,Friendly Opponent 3,1,3,Recent internationals cache,historical_results_seed
+2026-04-15,Canada,Friendly Opponent 4,3,1,Recent internationals cache,historical_results_seed
+2026-05-15,Canada,Friendly Opponent 5,2,1,Recent internationals cache,historical_results_seed
+2026-01-15,Bosnia and Herzegovina,Friendly Opponent 1,2,2,Recent internationals cache,historical_results_seed
+2026-02-15,Bosnia and Herzegovina,Friendly Opponent 2,2,1,Recent internationals cache,historical_results_seed
+2026-03-15,Bosnia and Herzegovina,Friendly Opponent 3,1,3,Recent internationals cache,historical_results_seed
+2026-04-15,Bosnia and Herzegovina,Friendly Opponent 4,2,2,Recent internationals cache,historical_results_seed
+2026-05-15,Bosnia and Herzegovina,Friendly Opponent 5,3,1,Recent internationals cache,historical_results_seed
+2026-01-15,Qatar,Friendly Opponent 1,4,0,Recent internationals cache,historical_results_seed
+2026-02-15,Qatar,Friendly Opponent 2,0,2,Recent internationals cache,historical_results_seed
+2026-03-15,Qatar,Friendly Opponent 3,1,1,Recent internationals cache,historical_results_seed
+2026-04-15,Qatar,Friendly Opponent 4,4,0,Recent internationals cache,historical_results_seed
+2026-05-15,Qatar,Friendly Opponent 5,2,2,Recent internationals cache,historical_results_seed
+2026-01-15,Switzerland,Friendly Opponent 1,2,2,Recent internationals cache,historical_results_seed
+2026-02-15,Switzerland,Friendly Opponent 2,2,1,Recent internationals cache,historical_results_seed
+2026-03-15,Switzerland,Friendly Opponent 3,2,0,Recent internationals cache,historical_results_seed
+2026-04-15,Switzerland,Friendly Opponent 4,1,4,Recent internationals cache,historical_results_seed
+2026-05-15,Switzerland,Friendly Opponent 5,3,1,Recent internationals cache,historical_results_seed
+2026-01-15,Brazil,Friendly Opponent 1,4,1,Recent internationals cache,historical_results_seed
+2026-02-15,Brazil,Friendly Opponent 2,4,1,Recent internationals cache,historical_results_seed
+2026-03-15,Brazil,Friendly Opponent 3,4,1,Recent internationals cache,historical_results_seed
+2026-04-15,Brazil,Friendly Opponent 4,2,2,Recent internationals cache,historical_results_seed
+2026-05-15,Brazil,Friendly Opponent 5,1,2,Recent internationals cache,historical_results_seed
+2026-01-15,Morocco,Friendly Opponent 1,3,1,Recent internationals cache,historical_results_seed
+2026-02-15,Morocco,Friendly Opponent 2,1,1,Recent internationals cache,historical_results_seed
+2026-03-15,Morocco,Friendly Opponent 3,2,0,Recent internationals cache,historical_results_seed
+2026-04-15,Morocco,Friendly Opponent 4,4,1,Recent internationals cache,historical_results_seed
+2026-05-15,Morocco,Friendly Opponent 5,2,2,Recent internationals cache,historical_results_seed
+2026-01-15,Haiti,Friendly Opponent 1,1,2,Recent internationals cache,historical_results_seed
+2026-02-15,Haiti,Friendly Opponent 2,3,1,Recent internationals cache,historical_results_seed
+2026-03-15,Haiti,Friendly Opponent 3,2,2,Recent internationals cache,historical_results_seed
+2026-04-15,Haiti,Friendly Opponent 4,1,3,Recent internationals cache,historical_results_seed
+2026-05-15,Haiti,Friendly Opponent 5,4,0,Recent internationals cache,historical_results_seed
+2026-01-15,Scotland,Friendly Opponent 1,3,1,Recent internationals cache,historical_results_seed
+2026-02-15,Scotland,Friendly Opponent 2,3,0,Recent internationals cache,historical_results_seed
+2026-03-15,Scotland,Friendly Opponent 3,1,4,Recent internationals cache,historical_results_seed
+2026-04-15,Scotland,Friendly Opponent 4,2,2,Recent internationals cache,historical_results_seed
+2026-05-15,Scotland,Friendly Opponent 5,3,0,Recent internationals cache,historical_results_seed
+2026-01-15,USA,Friendly Opponent 1,3,1,Recent internationals cache,historical_results_seed
+2026-02-15,USA,Friendly Opponent 2,1,1,Recent internationals cache,historical_results_seed
+2026-03-15,USA,Friendly Opponent 3,1,3,Recent internationals cache,historical_results_seed
+2026-04-15,USA,Friendly Opponent 4,3,0,Recent internationals cache,historical_results_seed
+2026-05-15,USA,Friendly Opponent 5,2,1,Recent internationals cache,historical_results_seed
+2026-01-15,Paraguay,Friendly Opponent 1,1,1,Recent internationals cache,historical_results_seed
+2026-02-15,Paraguay,Friendly Opponent 2,3,0,Recent internationals cache,historical_results_seed
+2026-03-15,Paraguay,Friendly Opponent 3,1,1,Recent internationals cache,historical_results_seed
+2026-04-15,Paraguay,Friendly Opponent 4,0,3,Recent internationals cache,historical_results_seed
+2026-05-15,Paraguay,Friendly Opponent 5,4,0,Recent internationals cache,historical_results_seed
+2026-01-15,Australia,Friendly Opponent 1,4,0,Recent internationals cache,historical_results_seed
+2026-02-15,Australia,Friendly Opponent 2,0,2,Recent internationals cache,historical_results_seed
+2026-03-15,Australia,Friendly Opponent 3,4,0,Recent internationals cache,historical_results_seed
+2026-04-15,Australia,Friendly Opponent 4,2,2,Recent internationals cache,historical_results_seed
+2026-05-15,Australia,Friendly Opponent 5,4,1,Recent internationals cache,historical_results_seed
+2026-01-15,Türkiye,Friendly Opponent 1,2,0,Recent internationals cache,historical_results_seed
+2026-02-15,Türkiye,Friendly Opponent 2,3,1,Recent internationals cache,historical_results_seed
+2026-03-15,Türkiye,Friendly Opponent 3,1,1,Recent internationals cache,historical_results_seed
+2026-04-15,Türkiye,Friendly Opponent 4,0,3,Recent internationals cache,historical_results_seed
+2026-05-15,Türkiye,Friendly Opponent 5,4,0,Recent internationals cache,historical_results_seed
+2026-01-15,Germany,Friendly Opponent 1,4,1,Recent internationals cache,historical_results_seed
+2026-02-15,Germany,Friendly Opponent 2,0,3,Recent internationals cache,historical_results_seed
+2026-03-15,Germany,Friendly Opponent 3,4,0,Recent internationals cache,historical_results_seed
+2026-04-15,Germany,Friendly Opponent 4,1,1,Recent internationals cache,historical_results_seed
+2026-05-15,Germany,Friendly Opponent 5,4,1,Recent internationals cache,historical_results_seed
+2026-01-15,Curaçao,Friendly Opponent 1,4,1,Recent internationals cache,historical_results_seed
+2026-02-15,Curaçao,Friendly Opponent 2,2,2,Recent internationals cache,historical_results_seed
+2026-03-15,Curaçao,Friendly Opponent 3,2,0,Recent internationals cache,historical_results_seed
+2026-04-15,Curaçao,Friendly Opponent 4,1,2,Recent internationals cache,historical_results_seed
+2026-05-15,Curaçao,Friendly Opponent 5,1,1,Recent internationals cache,historical_results_seed
+2026-01-15,Côte d'Ivoire,Friendly Opponent 1,3,0,Recent internationals cache,historical_results_seed
+2026-02-15,Côte d'Ivoire,Friendly Opponent 2,2,1,Recent internationals cache,historical_results_seed
+2026-03-15,Côte d'Ivoire,Friendly Opponent 3,2,2,Recent internationals cache,historical_results_seed
+2026-04-15,Côte d'Ivoire,Friendly Opponent 4,0,2,Recent internationals cache,historical_results_seed
+2026-05-15,Côte d'Ivoire,Friendly Opponent 5,4,1,Recent internationals cache,historical_results_seed
+2026-01-15,Ecuador,Friendly Opponent 1,2,2,Recent internationals cache,historical_results_seed
+2026-02-15,Ecuador,Friendly Opponent 2,4,1,Recent internationals cache,historical_results_seed
+2026-03-15,Ecuador,Friendly Opponent 3,3,1,Recent internationals cache,historical_results_seed
+2026-04-15,Ecuador,Friendly Opponent 4,1,1,Recent internationals cache,historical_results_seed
+2026-05-15,Ecuador,Friendly Opponent 5,1,3,Recent internationals cache,historical_results_seed
+2026-01-15,Netherlands,Friendly Opponent 1,4,0,Recent internationals cache,historical_results_seed
+2026-02-15,Netherlands,Friendly Opponent 2,2,0,Recent internationals cache,historical_results_seed
+2026-03-15,Netherlands,Friendly Opponent 3,1,4,Recent internationals cache,historical_results_seed
+2026-04-15,Netherlands,Friendly Opponent 4,2,2,Recent internationals cache,historical_results_seed
+2026-05-15,Netherlands,Friendly Opponent 5,3,0,Recent internationals cache,historical_results_seed
+2026-01-15,Japan,Friendly Opponent 1,4,0,Recent internationals cache,historical_results_seed
+2026-02-15,Japan,Friendly Opponent 2,4,1,Recent internationals cache,historical_results_seed
+2026-03-15,Japan,Friendly Opponent 3,1,1,Recent internationals cache,historical_results_seed
+2026-04-15,Japan,Friendly Opponent 4,0,4,Recent internationals cache,historical_results_seed
+2026-05-15,Japan,Friendly Opponent 5,2,0,Recent internationals cache,historical_results_seed
+2026-01-15,Sweden,Friendly Opponent 1,4,0,Recent internationals cache,historical_results_seed
+2026-02-15,Sweden,Friendly Opponent 2,2,2,Recent internationals cache,historical_results_seed
+2026-03-15,Sweden,Friendly Opponent 3,4,0,Recent internationals cache,historical_results_seed
+2026-04-15,Sweden,Friendly Opponent 4,3,0,Recent internationals cache,historical_results_seed
+2026-05-15,Sweden,Friendly Opponent 5,0,4,Recent internationals cache,historical_results_seed
+2026-01-15,Tunisia,Friendly Opponent 1,1,1,Recent internationals cache,historical_results_seed
+2026-02-15,Tunisia,Friendly Opponent 2,4,0,Recent internationals cache,historical_results_seed
+2026-03-15,Tunisia,Friendly Opponent 3,0,4,Recent internationals cache,historical_results_seed
+2026-04-15,Tunisia,Friendly Opponent 4,2,1,Recent internationals cache,historical_results_seed
+2026-05-15,Tunisia,Friendly Opponent 5,2,2,Recent internationals cache,historical_results_seed
+2026-01-15,Belgium,Friendly Opponent 1,3,1,Recent internationals cache,historical_results_seed
+2026-02-15,Belgium,Friendly Opponent 2,2,1,Recent internationals cache,historical_results_seed
+2026-03-15,Belgium,Friendly Opponent 3,2,2,Recent internationals cache,historical_results_seed
+2026-04-15,Belgium,Friendly Opponent 4,2,1,Recent internationals cache,historical_results_seed
+2026-05-15,Belgium,Friendly Opponent 5,0,3,Recent internationals cache,historical_results_seed
+2026-01-15,Egypt,Friendly Opponent 1,3,1,Recent internationals cache,historical_results_seed
+2026-02-15,Egypt,Friendly Opponent 2,2,2,Recent internationals cache,historical_results_seed
+2026-03-15,Egypt,Friendly Opponent 3,3,1,Recent internationals cache,historical_results_seed
+2026-04-15,Egypt,Friendly Opponent 4,2,1,Recent internationals cache,historical_results_seed
+2026-05-15,Egypt,Friendly Opponent 5,2,2,Recent internationals cache,historical_results_seed
+2026-01-15,IR Iran,Friendly Opponent 1,3,0,Recent internationals cache,historical_results_seed
+2026-02-15,IR Iran,Friendly Opponent 2,4,1,Recent internationals cache,historical_results_seed
+2026-03-15,IR Iran,Friendly Opponent 3,1,1,Recent internationals cache,historical_results_seed
+2026-04-15,IR Iran,Friendly Opponent 4,2,0,Recent internationals cache,historical_results_seed
+2026-05-15,IR Iran,Friendly Opponent 5,0,2,Recent internationals cache,historical_results_seed
+2026-01-15,New Zealand,Friendly Opponent 1,3,1,Recent internationals cache,historical_results_seed
+2026-02-15,New Zealand,Friendly Opponent 2,3,0,Recent internationals cache,historical_results_seed
+2026-03-15,New Zealand,Friendly Opponent 3,1,1,Recent internationals cache,historical_results_seed
+2026-04-15,New Zealand,Friendly Opponent 4,1,2,Recent internationals cache,historical_results_seed
+2026-05-15,New Zealand,Friendly Opponent 5,2,2,Recent internationals cache,historical_results_seed
+2026-01-15,Spain,Friendly Opponent 1,4,0,Recent internationals cache,historical_results_seed
+2026-02-15,Spain,Friendly Opponent 2,1,1,Recent internationals cache,historical_results_seed
+2026-03-15,Spain,Friendly Opponent 3,4,1,Recent internationals cache,historical_results_seed
+2026-04-15,Spain,Friendly Opponent 4,4,0,Recent internationals cache,historical_results_seed
+2026-05-15,Spain,Friendly Opponent 5,4,1,Recent internationals cache,historical_results_seed
+2026-01-15,Cabo Verde,Friendly Opponent 1,4,1,Recent internationals cache,historical_results_seed
+2026-02-15,Cabo Verde,Friendly Opponent 2,1,1,Recent internationals cache,historical_results_seed
+2026-03-15,Cabo Verde,Friendly Opponent 3,2,1,Recent internationals cache,historical_results_seed
+2026-04-15,Cabo Verde,Friendly Opponent 4,0,3,Recent internationals cache,historical_results_seed
+2026-05-15,Cabo Verde,Friendly Opponent 5,2,0,Recent internationals cache,historical_results_seed
+2026-01-15,Saudi Arabia,Friendly Opponent 1,1,1,Recent internationals cache,historical_results_seed
+2026-02-15,Saudi Arabia,Friendly Opponent 2,3,0,Recent internationals cache,historical_results_seed
+2026-03-15,Saudi Arabia,Friendly Opponent 3,0,4,Recent internationals cache,historical_results_seed
+2026-04-15,Saudi Arabia,Friendly Opponent 4,3,1,Recent internationals cache,historical_results_seed
+2026-05-15,Saudi Arabia,Friendly Opponent 5,1,1,Recent internationals cache,historical_results_seed
+2026-01-15,Uruguay,Friendly Opponent 1,3,1,Recent internationals cache,historical_results_seed
+2026-02-15,Uruguay,Friendly Opponent 2,0,3,Recent internationals cache,historical_results_seed
+2026-03-15,Uruguay,Friendly Opponent 3,3,0,Recent internationals cache,historical_results_seed
+2026-04-15,Uruguay,Friendly Opponent 4,1,1,Recent internationals cache,historical_results_seed
+2026-05-15,Uruguay,Friendly Opponent 5,3,1,Recent internationals cache,historical_results_seed
+2026-01-15,France,Friendly Opponent 1,3,0,Recent internationals cache,historical_results_seed
+2026-02-15,France,Friendly Opponent 2,1,1,Recent internationals cache,historical_results_seed
+2026-03-15,France,Friendly Opponent 3,2,0,Recent internationals cache,historical_results_seed
+2026-04-15,France,Friendly Opponent 4,2,1,Recent internationals cache,historical_results_seed
+2026-05-15,France,Friendly Opponent 5,2,0,Recent internationals cache,historical_results_seed
+2026-01-15,Senegal,Friendly Opponent 1,4,1,Recent internationals cache,historical_results_seed
+2026-02-15,Senegal,Friendly Opponent 2,2,2,Recent internationals cache,historical_results_seed
+2026-03-15,Senegal,Friendly Opponent 3,3,0,Recent internationals cache,historical_results_seed
+2026-04-15,Senegal,Friendly Opponent 4,3,1,Recent internationals cache,historical_results_seed
+2026-05-15,Senegal,Friendly Opponent 5,0,4,Recent internationals cache,historical_results_seed
+2026-01-15,Iraq,Friendly Opponent 1,3,1,Recent internationals cache,historical_results_seed
+2026-02-15,Iraq,Friendly Opponent 2,4,0,Recent internationals cache,historical_results_seed
+2026-03-15,Iraq,Friendly Opponent 3,2,2,Recent internationals cache,historical_results_seed
+2026-04-15,Iraq,Friendly Opponent 4,1,3,Recent internationals cache,historical_results_seed
+2026-05-15,Iraq,Friendly Opponent 5,3,1,Recent internationals cache,historical_results_seed
+2026-01-15,Norway,Friendly Opponent 1,2,1,Recent internationals cache,historical_results_seed
+2026-02-15,Norway,Friendly Opponent 2,2,1,Recent internationals cache,historical_results_seed
+2026-03-15,Norway,Friendly Opponent 3,4,1,Recent internationals cache,historical_results_seed
+2026-04-15,Norway,Friendly Opponent 4,2,2,Recent internationals cache,historical_results_seed
+2026-05-15,Norway,Friendly Opponent 5,0,3,Recent internationals cache,historical_results_seed
+2026-01-15,Argentina,Friendly Opponent 1,3,1,Recent internationals cache,historical_results_seed
+2026-02-15,Argentina,Friendly Opponent 2,4,0,Recent internationals cache,historical_results_seed
+2026-03-15,Argentina,Friendly Opponent 3,4,1,Recent internationals cache,historical_results_seed
+2026-04-15,Argentina,Friendly Opponent 4,1,1,Recent internationals cache,historical_results_seed
+2026-05-15,Argentina,Friendly Opponent 5,4,0,Recent internationals cache,historical_results_seed
+2026-01-15,Algeria,Friendly Opponent 1,4,0,Recent internationals cache,historical_results_seed
+2026-02-15,Algeria,Friendly Opponent 2,2,0,Recent internationals cache,historical_results_seed
+2026-03-15,Algeria,Friendly Opponent 3,1,1,Recent internationals cache,historical_results_seed
+2026-04-15,Algeria,Friendly Opponent 4,2,0,Recent internationals cache,historical_results_seed
+2026-05-15,Algeria,Friendly Opponent 5,4,1,Recent internationals cache,historical_results_seed
+2026-01-15,Austria,Friendly Opponent 1,4,1,Recent internationals cache,historical_results_seed
+2026-02-15,Austria,Friendly Opponent 2,1,1,Recent internationals cache,historical_results_seed
+2026-03-15,Austria,Friendly Opponent 3,3,0,Recent internationals cache,historical_results_seed
+2026-04-15,Austria,Friendly Opponent 4,3,1,Recent internationals cache,historical_results_seed
+2026-05-15,Austria,Friendly Opponent 5,1,3,Recent internationals cache,historical_results_seed
+2026-01-15,Jordan,Friendly Opponent 1,2,1,Recent internationals cache,historical_results_seed
+2026-02-15,Jordan,Friendly Opponent 2,1,1,Recent internationals cache,historical_results_seed
+2026-03-15,Jordan,Friendly Opponent 3,0,2,Recent internationals cache,historical_results_seed
+2026-04-15,Jordan,Friendly Opponent 4,4,0,Recent internationals cache,historical_results_seed
+2026-05-15,Jordan,Friendly Opponent 5,4,1,Recent internationals cache,historical_results_seed
+2026-01-15,Portugal,Friendly Opponent 1,3,0,Recent internationals cache,historical_results_seed
+2026-02-15,Portugal,Friendly Opponent 2,2,0,Recent internationals cache,historical_results_seed
+2026-03-15,Portugal,Friendly Opponent 3,1,1,Recent internationals cache,historical_results_seed
+2026-04-15,Portugal,Friendly Opponent 4,3,1,Recent internationals cache,historical_results_seed
+2026-05-15,Portugal,Friendly Opponent 5,3,1,Recent internationals cache,historical_results_seed
+2026-01-15,Congo DR,Friendly Opponent 1,2,2,Recent internationals cache,historical_results_seed
+2026-02-15,Congo DR,Friendly Opponent 2,2,0,Recent internationals cache,historical_results_seed
+2026-03-15,Congo DR,Friendly Opponent 3,2,0,Recent internationals cache,historical_results_seed
+2026-04-15,Congo DR,Friendly Opponent 4,1,3,Recent internationals cache,historical_results_seed
+2026-05-15,Congo DR,Friendly Opponent 5,2,2,Recent internationals cache,historical_results_seed
+2026-01-15,Uzbekistan,Friendly Opponent 1,2,0,Recent internationals cache,historical_results_seed
+2026-02-15,Uzbekistan,Friendly Opponent 2,1,1,Recent internationals cache,historical_results_seed
+2026-03-15,Uzbekistan,Friendly Opponent 3,3,0,Recent internationals cache,historical_results_seed
+2026-04-15,Uzbekistan,Friendly Opponent 4,1,1,Recent internationals cache,historical_results_seed
+2026-05-15,Uzbekistan,Friendly Opponent 5,4,0,Recent internationals cache,historical_results_seed
+2026-01-15,Colombia,Friendly Opponent 1,4,1,Recent internationals cache,historical_results_seed
+2026-02-15,Colombia,Friendly Opponent 2,2,2,Recent internationals cache,historical_results_seed
+2026-03-15,Colombia,Friendly Opponent 3,2,1,Recent internationals cache,historical_results_seed
+2026-04-15,Colombia,Friendly Opponent 4,3,0,Recent internationals cache,historical_results_seed
+2026-05-15,Colombia,Friendly Opponent 5,1,3,Recent internationals cache,historical_results_seed
+2026-01-15,England,Friendly Opponent 1,2,2,Recent internationals cache,historical_results_seed
+2026-02-15,England,Friendly Opponent 2,4,1,Recent internationals cache,historical_results_seed
+2026-03-15,England,Friendly Opponent 3,4,1,Recent internationals cache,historical_results_seed
+2026-04-15,England,Friendly Opponent 4,1,2,Recent internationals cache,historical_results_seed
+2026-05-15,England,Friendly Opponent 5,2,1,Recent internationals cache,historical_results_seed
+2026-01-15,Croatia,Friendly Opponent 1,2,1,Recent internationals cache,historical_results_seed
+2026-02-15,Croatia,Friendly Opponent 2,1,1,Recent internationals cache,historical_results_seed
+2026-03-15,Croatia,Friendly Opponent 3,3,1,Recent internationals cache,historical_results_seed
+2026-04-15,Croatia,Friendly Opponent 4,0,4,Recent internationals cache,historical_results_seed
+2026-05-15,Croatia,Friendly Opponent 5,2,0,Recent internationals cache,historical_results_seed
+2026-01-15,Ghana,Friendly Opponent 1,1,3,Recent internationals cache,historical_results_seed
+2026-02-15,Ghana,Friendly Opponent 2,4,1,Recent internationals cache,historical_results_seed
+2026-03-15,Ghana,Friendly Opponent 3,1,1,Recent internationals cache,historical_results_seed
+2026-04-15,Ghana,Friendly Opponent 4,4,0,Recent internationals cache,historical_results_seed
+2026-05-15,Ghana,Friendly Opponent 5,1,1,Recent internationals cache,historical_results_seed
+2026-01-15,Panama,Friendly Opponent 1,4,0,Recent internationals cache,historical_results_seed
+2026-02-15,Panama,Friendly Opponent 2,2,2,Recent internationals cache,historical_results_seed
+2026-03-15,Panama,Friendly Opponent 3,4,0,Recent internationals cache,historical_results_seed
+2026-04-15,Panama,Friendly Opponent 4,1,3,Recent internationals cache,historical_results_seed
+2026-05-15,Panama,Friendly Opponent 5,4,0,Recent internationals cache,historical_results_seed

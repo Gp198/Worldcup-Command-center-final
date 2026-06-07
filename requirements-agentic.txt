@@ -1,0 +1,7 @@
+# Optional enterprise agent orchestration dependencies.
+# Install only if you want true framework-managed graph execution locally.
+langgraph>=0.2.60
+langchain-core>=0.3.0
+# CrewAI and AutoGen can be added as separate optional experiments because they are heavier:
+# crewai>=0.95.0
+# pyautogen>=0.3.0

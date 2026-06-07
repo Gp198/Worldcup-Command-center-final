@@ -1,0 +1,73 @@
+home_team,away_team,stage
+Mexico,South Africa,Group A
+Korea Republic,Czechia,Group A
+Czechia,South Africa,Group A
+Mexico,Korea Republic,Group A
+Czechia,Mexico,Group A
+South Africa,Korea Republic,Group A
+Canada,Bosnia and Herzegovina,Group B
+Qatar,Switzerland,Group B
+Switzerland,Bosnia and Herzegovina,Group B
+Canada,Qatar,Group B
+Switzerland,Canada,Group B
+Bosnia and Herzegovina,Qatar,Group B
+Haiti,Scotland,Group C
+Brazil,Morocco,Group C
+Brazil,Haiti,Group C
+Scotland,Morocco,Group C
+Scotland,Brazil,Group C
+Morocco,Haiti,Group C
+USA,Paraguay,Group D
+Australia,Türkiye,Group D
+Türkiye,Paraguay,Group D
+USA,Australia,Group D
+Türkiye,USA,Group D
+Paraguay,Australia,Group D
+Côte d'Ivoire,Ecuador,Group E
+Germany,Curaçao,Group E
+Germany,Côte d'Ivoire,Group E
+Ecuador,Curaçao,Group E
+Curaçao,Côte d'Ivoire,Group E
+Ecuador,Germany,Group E
+Netherlands,Japan,Group F
+Sweden,Tunisia,Group F
+Netherlands,Sweden,Group F
+Tunisia,Japan,Group F
+Japan,Sweden,Group F
+Tunisia,Netherlands,Group F
+IR Iran,New Zealand,Group G
+Belgium,Egypt,Group G
+Belgium,IR Iran,Group G
+New Zealand,Egypt,Group G
+Egypt,IR Iran,Group G
+New Zealand,Belgium,Group G
+Saudi Arabia,Uruguay,Group H
+Spain,Cabo Verde,Group H
+Uruguay,Cabo Verde,Group H
+Spain,Saudi Arabia,Group H
+Cabo Verde,Saudi Arabia,Group H
+Uruguay,Spain,Group H
+France,Senegal,Group I
+Iraq,Norway,Group I
+Norway,Senegal,Group I
+France,Iraq,Group I
+Norway,France,Group I
+Senegal,Iraq,Group I
+Argentina,Algeria,Group J
+Austria,Jordan,Group J
+Argentina,Austria,Group J
+Jordan,Algeria,Group J
+Algeria,Austria,Group J
+Jordan,Argentina,Group J
+Portugal,Congo DR,Group K
+Uzbekistan,Colombia,Group K
+Portugal,Uzbekistan,Group K
+Colombia,Congo DR,Group K
+Colombia,Portugal,Group K
+Congo DR,Uzbekistan,Group K
+Ghana,Panama,Group L
+England,Croatia,Group L
+England,Ghana,Group L
+Panama,Croatia,Group L
+Panama,England,Group L
+Croatia,Ghana,Group L

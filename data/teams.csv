@@ -1,0 +1,49 @@
+team,group,confederation,attack_strength,defense_strength,source_note
+Mexico,A,CONCACAF,78,82,Phase 4 realistic cached seed; refresh via connectors before production use
+South Africa,A,CAF,72,73,Phase 4 realistic cached seed; refresh via connectors before production use
+Korea Republic,A,AFC,79,81,Phase 4 realistic cached seed; refresh via connectors before production use
+Czechia,A,UEFA,77,79,Phase 4 realistic cached seed; refresh via connectors before production use
+Canada,B,CONCACAF,76,79,Phase 4 realistic cached seed; refresh via connectors before production use
+Bosnia and Herzegovina,B,UEFA,73,70,Phase 4 realistic cached seed; refresh via connectors before production use
+Qatar,B,AFC,72,72,Phase 4 realistic cached seed; refresh via connectors before production use
+Switzerland,B,UEFA,80,83,Phase 4 realistic cached seed; refresh via connectors before production use
+Brazil,C,CONMEBOL,89,85,Phase 4 realistic cached seed; refresh via connectors before production use
+Morocco,C,CAF,82,84,Phase 4 realistic cached seed; refresh via connectors before production use
+Haiti,C,CONCACAF,69,67,Phase 4 realistic cached seed; refresh via connectors before production use
+Scotland,C,UEFA,76,78,Phase 4 realistic cached seed; refresh via connectors before production use
+USA,D,CONCACAF,79,78,Phase 4 realistic cached seed; refresh via connectors before production use
+Paraguay,D,CONMEBOL,75,79,Phase 4 realistic cached seed; refresh via connectors before production use
+Australia,D,AFC,77,80,Phase 4 realistic cached seed; refresh via connectors before production use
+Türkiye,D,UEFA,82,78,Phase 4 realistic cached seed; refresh via connectors before production use
+Germany,E,UEFA,87,84,Phase 4 realistic cached seed; refresh via connectors before production use
+Curaçao,E,CONCACAF,68,67,Phase 4 realistic cached seed; refresh via connectors before production use
+Côte d'Ivoire,E,CAF,80,77,Phase 4 realistic cached seed; refresh via connectors before production use
+Ecuador,E,CONMEBOL,78,84,Phase 4 realistic cached seed; refresh via connectors before production use
+Netherlands,F,UEFA,86,85,Phase 4 realistic cached seed; refresh via connectors before production use
+Japan,F,AFC,80,81,Phase 4 realistic cached seed; refresh via connectors before production use
+Sweden,F,UEFA,78,80,Phase 4 realistic cached seed; refresh via connectors before production use
+Tunisia,F,CAF,75,78,Phase 4 realistic cached seed; refresh via connectors before production use
+Belgium,G,UEFA,85,82,Phase 4 realistic cached seed; refresh via connectors before production use
+Egypt,G,CAF,80,76,Phase 4 realistic cached seed; refresh via connectors before production use
+IR Iran,G,AFC,80,80,Phase 4 realistic cached seed; refresh via connectors before production use
+New Zealand,G,OFC,66,68,Phase 4 realistic cached seed; refresh via connectors before production use
+Spain,H,UEFA,90,89,Phase 4 realistic cached seed; refresh via connectors before production use
+Cabo Verde,H,CAF,72,70,Phase 4 realistic cached seed; refresh via connectors before production use
+Saudi Arabia,H,AFC,72,74,Phase 4 realistic cached seed; refresh via connectors before production use
+Uruguay,H,CONMEBOL,82,83,Phase 4 realistic cached seed; refresh via connectors before production use
+France,I,UEFA,91,86,Phase 4 realistic cached seed; refresh via connectors before production use
+Senegal,I,CAF,81,83,Phase 4 realistic cached seed; refresh via connectors before production use
+Iraq,I,AFC,72,74,Phase 4 realistic cached seed; refresh via connectors before production use
+Norway,I,UEFA,83,75,Phase 4 realistic cached seed; refresh via connectors before production use
+Argentina,J,CONMEBOL,88,88,Phase 4 realistic cached seed; refresh via connectors before production use
+Algeria,J,CAF,81,78,Phase 4 realistic cached seed; refresh via connectors before production use
+Austria,J,UEFA,79,82,Phase 4 realistic cached seed; refresh via connectors before production use
+Jordan,J,AFC,70,72,Phase 4 realistic cached seed; refresh via connectors before production use
+Portugal,K,UEFA,88,85,Phase 4 realistic cached seed; refresh via connectors before production use
+Congo DR,K,CAF,76,74,Phase 4 realistic cached seed; refresh via connectors before production use
+Uzbekistan,K,AFC,74,75,Phase 4 realistic cached seed; refresh via connectors before production use
+Colombia,K,CONMEBOL,83,82,Phase 4 realistic cached seed; refresh via connectors before production use
+England,L,UEFA,88,86,Phase 4 realistic cached seed; refresh via connectors before production use
+Croatia,L,UEFA,82,85,Phase 4 realistic cached seed; refresh via connectors before production use
+Ghana,L,CAF,75,72,Phase 4 realistic cached seed; refresh via connectors before production use
+Panama,L,CONCACAF,75,74,Phase 4 realistic cached seed; refresh via connectors before production use

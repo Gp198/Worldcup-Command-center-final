@@ -1,0 +1,241 @@
+player,team,position,club,age,overall_rating,market_value_m,status,source
+Bruno Fernandes,Portugal,FW,Multiple European Clubs,27,95.0,141.7,available,player_strength_realistic_cache
+Bernardo Silva,Portugal,MF,Domestic/International Club,26,94.5,145.6,available,player_strength_realistic_cache
+Cristiano Ronaldo,Portugal,DF,Top Division Club,32,91.6,144.0,available,player_strength_realistic_cache
+Rafael Leão,Portugal,GK,National Team Pool,26,91.5,128.4,available,player_strength_realistic_cache
+Rúben Dias,Portugal,MF,European League Club,24,88.4,118.6,available,player_strength_realistic_cache
+Vinícius Júnior,Brazil,FW,Multiple European Clubs,36,95.0,143.9,available,player_strength_realistic_cache
+Rodrygo,Brazil,MF,Domestic/International Club,32,95.0,161.0,available,player_strength_realistic_cache
+Bruno Guimarães,Brazil,DF,Top Division Club,34,93.1,142.2,available,player_strength_realistic_cache
+Marquinhos,Brazil,GK,National Team Pool,30,92.4,148.3,available,player_strength_realistic_cache
+Alisson,Brazil,MF,European League Club,24,89.0,127.3,available,player_strength_realistic_cache
+Kylian Mbappé,France,FW,Multiple European Clubs,25,95.0,142.8,available,player_strength_realistic_cache
+Antoine Griezmann,France,MF,Domestic/International Club,33,95.0,152.4,available,player_strength_realistic_cache
+Aurélien Tchouaméni,France,DF,Top Division Club,27,94.6,137.5,available,player_strength_realistic_cache
+William Saliba,France,GK,National Team Pool,30,91.3,131.3,available,player_strength_realistic_cache
+Mike Maignan,France,MF,European League Club,24,90.0,133.7,available,player_strength_realistic_cache
+Lionel Messi,Argentina,FW,Multiple European Clubs,26,95.0,147.5,available,player_strength_realistic_cache
+Lautaro Martínez,Argentina,MF,Domestic/International Club,28,95.0,157.9,available,player_strength_realistic_cache
+Julián Álvarez,Argentina,DF,Top Division Club,23,93.5,140.5,available,player_strength_realistic_cache
+Enzo Fernández,Argentina,GK,National Team Pool,23,92.1,150.6,available,player_strength_realistic_cache
+Emiliano Martínez,Argentina,MF,European League Club,27,91.2,129.3,available,player_strength_realistic_cache
+Lamine Yamal,Spain,FW,Multiple European Clubs,34,95.0,150.9,available,player_strength_realistic_cache
+Pedri,Spain,MF,Domestic/International Club,23,95.0,140.8,available,player_strength_realistic_cache
+Rodri,Spain,DF,Top Division Club,26,95.0,159.2,available,player_strength_realistic_cache
+Nico Williams,Spain,GK,National Team Pool,27,94.4,142.2,available,player_strength_realistic_cache
+Unai Simón,Spain,MF,European League Club,27,91.8,140.2,available,player_strength_realistic_cache
+Harry Kane,England,FW,Multiple European Clubs,32,95.0,157.8,available,player_strength_realistic_cache
+Jude Bellingham,England,MF,Domestic/International Club,34,94.5,141.5,available,player_strength_realistic_cache
+Phil Foden,England,DF,Top Division Club,27,93.1,153.5,available,player_strength_realistic_cache
+Bukayo Saka,England,GK,National Team Pool,34,92.4,137.1,available,player_strength_realistic_cache
+Declan Rice,England,MF,European League Club,29,90.3,124.7,available,player_strength_realistic_cache
+Jamal Musiala,Germany,FW,Multiple European Clubs,27,95.0,156.1,available,player_strength_realistic_cache
+Florian Wirtz,Germany,MF,Domestic/International Club,23,92.6,137.4,available,player_strength_realistic_cache
+Kai Havertz,Germany,DF,Top Division Club,29,90.7,142.6,available,player_strength_realistic_cache
+Joshua Kimmich,Germany,GK,National Team Pool,26,88.9,127.5,available,player_strength_realistic_cache
+Antonio Rüdiger,Germany,MF,European League Club,30,87.2,131.5,available,player_strength_realistic_cache
+Virgil van Dijk,Netherlands,FW,Multiple European Clubs,34,94.2,142.7,available,player_strength_realistic_cache
+Frenkie de Jong,Netherlands,MF,Domestic/International Club,22,91.7,135.5,available,player_strength_realistic_cache
+Cody Gakpo,Netherlands,DF,Top Division Club,28,90.3,128.0,available,player_strength_realistic_cache
+Xavi Simons,Netherlands,GK,National Team Pool,29,88.1,127.7,available,player_strength_realistic_cache
+Denzel Dumfries,Netherlands,MF,European League Club,32,88.2,132.6,available,player_strength_realistic_cache
+Kevin De Bruyne,Belgium,FW,Multiple European Clubs,31,93.2,144.8,available,player_strength_realistic_cache
+Romelu Lukaku,Belgium,MF,Domestic/International Club,28,90.4,128.1,available,player_strength_realistic_cache
+Jeremy Doku,Belgium,DF,Top Division Club,30,89.9,117.7,available,player_strength_realistic_cache
+Youri Tielemans,Belgium,GK,National Team Pool,31,88.2,113.9,available,player_strength_realistic_cache
+Thibaut Courtois,Belgium,MF,European League Club,34,86.4,113.8,available,player_strength_realistic_cache
+Luka Modrić,Croatia,FW,Multiple European Clubs,32,91.3,145.6,available,player_strength_realistic_cache
+Joško Gvardiol,Croatia,MF,Domestic/International Club,25,88.3,111.9,available,player_strength_realistic_cache
+Mateo Kovačić,Croatia,DF,Top Division Club,26,87.6,125.1,available,player_strength_realistic_cache
+Andrej Kramarić,Croatia,GK,National Team Pool,34,85.1,117.6,available,player_strength_realistic_cache
+Dominik Livaković,Croatia,MF,European League Club,32,83.9,99.5,available,player_strength_realistic_cache
+Achraf Hakimi,Morocco,FW,Multiple European Clubs,28,89.0,128.3,available,player_strength_realistic_cache
+Hakim Ziyech,Morocco,MF,Domestic/International Club,23,87.9,109.5,available,player_strength_realistic_cache
+Sofyan Amrabat,Morocco,DF,Top Division Club,29,85.2,123.0,available,player_strength_realistic_cache
+Yassine Bounou,Morocco,GK,National Team Pool,33,83.7,109.1,available,player_strength_realistic_cache
+Youssef En-Nesyri,Morocco,MF,European League Club,33,82.4,101.0,available,player_strength_realistic_cache
+Luis Díaz,Colombia,FW,Multiple European Clubs,27,90.5,135.3,available,player_strength_realistic_cache
+James Rodríguez,Colombia,MF,Domestic/International Club,28,87.6,115.1,available,player_strength_realistic_cache
+Jhon Durán,Colombia,DF,Top Division Club,30,85.8,114.8,available,player_strength_realistic_cache
+Davinson Sánchez,Colombia,GK,National Team Pool,29,87.1,131.4,available,player_strength_realistic_cache
+Jefferson Lerma,Colombia,MF,European League Club,27,84.5,103.7,available,player_strength_realistic_cache
+Federico Valverde,Uruguay,FW,Multiple European Clubs,32,89.9,129.9,available,player_strength_realistic_cache
+Darwin Núñez,Uruguay,MF,Domestic/International Club,22,89.9,139.6,available,player_strength_realistic_cache
+Ronald Araújo,Uruguay,DF,Top Division Club,29,87.6,111.5,available,player_strength_realistic_cache
+Manuel Ugarte,Uruguay,GK,National Team Pool,34,86.5,110.0,available,player_strength_realistic_cache
+José María Giménez,Uruguay,MF,European League Club,30,83.9,101.9,available,player_strength_realistic_cache
+Christian Pulisic,USA,FW,Multiple European Clubs,28,87.4,117.6,available,player_strength_realistic_cache
+Weston McKennie,USA,MF,Domestic/International Club,23,85.0,118.4,available,player_strength_realistic_cache
+Tyler Adams,USA,DF,Top Division Club,30,83.9,109.1,available,player_strength_realistic_cache
+Gio Reyna,USA,GK,National Team Pool,26,82.1,104.9,available,player_strength_realistic_cache
+Folarin Balogun,USA,MF,European League Club,30,81.4,98.1,available,player_strength_realistic_cache
+Santiago Giménez,Mexico,FW,Multiple European Clubs,32,88.8,128.5,available,player_strength_realistic_cache
+Edson Álvarez,Mexico,MF,Domestic/International Club,24,85.3,106.9,available,player_strength_realistic_cache
+Hirving Lozano,Mexico,DF,Top Division Club,34,82.9,102.9,available,player_strength_realistic_cache
+Guillermo Ochoa,Mexico,GK,National Team Pool,30,81.6,89.5,available,player_strength_realistic_cache
+Luis Chávez,Mexico,MF,European League Club,23,81.1,90.4,available,player_strength_realistic_cache
+Granit Xhaka,Switzerland,FW,Multiple European Clubs,25,89.7,142.1,available,player_strength_realistic_cache
+Manuel Akanji,Switzerland,MF,Domestic/International Club,30,86.7,109.6,available,player_strength_realistic_cache
+Breel Embolo,Switzerland,DF,Top Division Club,25,86.3,105.6,available,player_strength_realistic_cache
+Dan Ndoye,Switzerland,GK,National Team Pool,33,84.5,101.8,available,player_strength_realistic_cache
+Yann Sommer,Switzerland,MF,European League Club,27,82.0,98.8,available,player_strength_realistic_cache
+Takefusa Kubo,Japan,FW,Multiple European Clubs,33,88.0,126.5,available,player_strength_realistic_cache
+Kaoru Mitoma,Japan,MF,Domestic/International Club,24,87.1,120.0,available,player_strength_realistic_cache
+Wataru Endo,Japan,DF,Top Division Club,24,85.5,117.5,available,player_strength_realistic_cache
+Daichi Kamada,Japan,GK,National Team Pool,34,84.3,97.4,available,player_strength_realistic_cache
+Zion Suzuki,Japan,MF,European League Club,32,82.5,88.0,available,player_strength_realistic_cache
+Sadio Mané,Senegal,FW,Multiple European Clubs,29,89.5,123.2,available,player_strength_realistic_cache
+Kalidou Koulibaly,Senegal,MF,Domestic/International Club,26,88.1,114.8,available,player_strength_realistic_cache
+Nicolas Jackson,Senegal,DF,Top Division Club,24,86.6,121.7,available,player_strength_realistic_cache
+Pape Matar Sarr,Senegal,GK,National Team Pool,22,83.5,95.4,available,player_strength_realistic_cache
+Édouard Mendy,Senegal,MF,European League Club,28,82.8,105.2,available,player_strength_realistic_cache
+Mehdi Taremi,IR Iran,FW,Multiple European Clubs,33,87.8,121.6,available,player_strength_realistic_cache
+Sardar Azmoun,IR Iran,MF,Domestic/International Club,30,87.2,113.9,available,player_strength_realistic_cache
+Alireza Jahanbakhsh,IR Iran,DF,Top Division Club,29,83.8,106.0,available,player_strength_realistic_cache
+Saman Ghoddos,IR Iran,GK,National Team Pool,27,83.1,99.8,available,player_strength_realistic_cache
+Majid Hosseini,IR Iran,MF,European League Club,29,79.9,88.9,available,player_strength_realistic_cache
+Son Heung-min,Korea Republic,FW,Multiple European Clubs,34,84.9,99.1,available,player_strength_realistic_cache
+Kim Min-jae,Korea Republic,MF,Domestic/International Club,26,85.8,118.7,available,player_strength_realistic_cache
+Lee Kang-in,Korea Republic,DF,Top Division Club,30,82.7,88.0,available,player_strength_realistic_cache
+Hwang Hee-chan,Korea Republic,GK,National Team Pool,28,80.7,100.1,available,player_strength_realistic_cache
+Cho Gue-sung,Korea Republic,MF,European League Club,24,80.5,83.2,available,player_strength_realistic_cache
+Hakan Çalhanoğlu,Türkiye,FW,Multiple European Clubs,32,86.6,121.0,available,player_strength_realistic_cache
+Arda Güler,Türkiye,MF,Domestic/International Club,28,84.9,100.9,available,player_strength_realistic_cache
+Kenan Yıldız,Türkiye,DF,Top Division Club,27,84.9,108.4,available,player_strength_realistic_cache
+Orkun Kökçü,Türkiye,GK,National Team Pool,32,83.2,114.7,available,player_strength_realistic_cache
+Merih Demiral,Türkiye,MF,European League Club,30,81.7,107.5,available,player_strength_realistic_cache
+Mathew Ryan,Australia,FW,Multiple European Clubs,28,85.7,102.4,available,player_strength_realistic_cache
+Jackson Irvine,Australia,MF,Domestic/International Club,23,84.5,98.0,available,player_strength_realistic_cache
+Harry Souttar,Australia,DF,Top Division Club,33,81.8,101.1,available,player_strength_realistic_cache
+Riley McGree,Australia,GK,National Team Pool,32,79.6,78.7,available,player_strength_realistic_cache
+Nestory Irankunda,Australia,MF,European League Club,28,78.8,94.3,available,player_strength_realistic_cache
+Tomáš Souček,Czechia,FW,Multiple European Clubs,35,83.0,113.8,available,player_strength_realistic_cache
+Patrik Schick,Czechia,MF,Domestic/International Club,26,84.0,109.2,available,player_strength_realistic_cache
+Ladislav Krejčí,Czechia,DF,Top Division Club,22,80.6,87.9,available,player_strength_realistic_cache
+Antonín Barák,Czechia,GK,National Team Pool,26,79.5,86.0,available,player_strength_realistic_cache
+Václav Černý,Czechia,MF,European League Club,24,79.0,84.6,available,player_strength_realistic_cache
+David Alaba,Austria,FW,Multiple European Clubs,28,86.2,105.9,available,player_strength_realistic_cache
+Marcel Sabitzer,Austria,MF,Domestic/International Club,31,87.2,118.1,available,player_strength_realistic_cache
+Konrad Laimer,Austria,DF,Top Division Club,33,84.6,96.6,available,player_strength_realistic_cache
+Marko Arnautović,Austria,GK,National Team Pool,26,83.1,97.5,available,player_strength_realistic_cache
+Christoph Baumgartner,Austria,MF,European League Club,29,82.4,88.1,available,player_strength_realistic_cache
+Erling Haaland,Norway,FW,Multiple European Clubs,33,86.9,126.6,available,player_strength_realistic_cache
+Martin Ødegaard,Norway,MF,Domestic/International Club,26,86.8,129.0,available,player_strength_realistic_cache
+Alexander Sørloth,Norway,DF,Top Division Club,22,83.6,93.2,available,player_strength_realistic_cache
+Sander Berge,Norway,GK,National Team Pool,31,81.3,105.5,available,player_strength_realistic_cache
+Antonio Nusa,Norway,MF,European League Club,34,79.8,96.0,available,player_strength_realistic_cache
+Riyad Mahrez,Algeria,FW,Multiple European Clubs,32,86.6,115.7,available,player_strength_realistic_cache
+Ismaël Bennacer,Algeria,MF,Domestic/International Club,27,84.9,100.7,available,player_strength_realistic_cache
+Amine Gouiri,Algeria,DF,Top Division Club,23,82.1,87.6,available,player_strength_realistic_cache
+Youcef Atal,Algeria,GK,National Team Pool,22,80.6,100.9,available,player_strength_realistic_cache
+Ramy Bensebaini,Algeria,MF,European League Club,23,81.4,101.4,available,player_strength_realistic_cache
+Mohamed Salah,Egypt,FW,Multiple European Clubs,36,85.2,111.2,available,player_strength_realistic_cache
+Omar Marmoush,Egypt,MF,Domestic/International Club,33,84.2,117.1,available,player_strength_realistic_cache
+Trézéguet,Egypt,DF,Top Division Club,25,80.2,101.6,available,player_strength_realistic_cache
+Mostafa Mohamed,Egypt,GK,National Team Pool,33,79.1,95.4,available,player_strength_realistic_cache
+Mohamed Elneny,Egypt,MF,European League Club,27,77.2,70.6,available,player_strength_realistic_cache
+Moisés Caicedo,Ecuador,FW,Multiple European Clubs,34,87.2,118.8,available,player_strength_realistic_cache
+Piero Hincapié,Ecuador,MF,Domestic/International Club,23,84.9,101.3,available,player_strength_realistic_cache
+Pervis Estupiñán,Ecuador,DF,Top Division Club,29,84.5,110.1,available,player_strength_realistic_cache
+Enner Valencia,Ecuador,GK,National Team Pool,25,82.7,100.3,available,player_strength_realistic_cache
+Kendry Páez,Ecuador,MF,European League Club,29,80.7,79.6,available,player_strength_realistic_cache
+Sébastien Haller,Côte d'Ivoire,FW,Multiple European Clubs,33,86.3,109.9,available,player_strength_realistic_cache
+Franck Kessié,Côte d'Ivoire,MF,Domestic/International Club,33,83.2,109.6,available,player_strength_realistic_cache
+Simon Adingra,Côte d'Ivoire,DF,Top Division Club,30,82.4,95.4,available,player_strength_realistic_cache
+Evan Ndicka,Côte d'Ivoire,GK,National Team Pool,31,79.6,88.1,available,player_strength_realistic_cache
+Nicolas Pépé,Côte d'Ivoire,MF,European League Club,23,78.6,75.8,available,player_strength_realistic_cache
+Andy Robertson,Scotland,FW,Multiple European Clubs,37,83.6,102.9,available,player_strength_realistic_cache
+Scott McTominay,Scotland,MF,Domestic/International Club,28,80.6,81.4,available,player_strength_realistic_cache
+John McGinn,Scotland,DF,Top Division Club,25,79.9,75.7,available,player_strength_realistic_cache
+Billy Gilmour,Scotland,GK,National Team Pool,24,77.3,84.0,available,player_strength_realistic_cache
+Kieran Tierney,Scotland,MF,European League Club,23,77.1,87.4,available,player_strength_realistic_cache
+Miguel Almirón,Paraguay,FW,Multiple European Clubs,25,82.7,111.6,available,player_strength_realistic_cache
+Julio Enciso,Paraguay,MF,Domestic/International Club,34,81.0,101.9,available,player_strength_realistic_cache
+Gustavo Gómez,Paraguay,DF,Top Division Club,29,80.8,82.5,available,player_strength_realistic_cache
+Matías Rojas,Paraguay,GK,National Team Pool,33,78.7,71.7,available,player_strength_realistic_cache
+Ramón Sosa,Paraguay,MF,European League Club,32,76.9,87.7,available,player_strength_realistic_cache
+Adalberto Carrasquilla,Panama,FW,Multiple European Clubs,28,83.7,116.4,available,player_strength_realistic_cache
+Aníbal Godoy,Panama,MF,Domestic/International Club,22,81.3,106.5,available,player_strength_realistic_cache
+Michael Murillo,Panama,DF,Top Division Club,23,78.6,74.4,available,player_strength_realistic_cache
+José Fajardo,Panama,GK,National Team Pool,31,76.9,63.3,available,player_strength_realistic_cache
+Édgar Bárcenas,Panama,MF,European League Club,26,76.4,73.3,available,player_strength_realistic_cache
+Chancel Mbemba,Congo DR,FW,Multiple European Clubs,33,80.1,94.7,available,player_strength_realistic_cache
+Yoane Wissa,Congo DR,MF,Domestic/International Club,31,78.8,87.5,available,player_strength_realistic_cache
+Cédric Bakambu,Congo DR,DF,Top Division Club,22,78.3,81.8,available,player_strength_realistic_cache
+Arthur Masuaku,Congo DR,GK,National Team Pool,28,76.7,68.2,available,player_strength_realistic_cache
+Gaël Kakuta,Congo DR,MF,European League Club,22,74.9,60.8,available,player_strength_realistic_cache
+Eldor Shomurodov,Uzbekistan,FW,Multiple European Clubs,32,81.1,95.2,available,player_strength_realistic_cache
+Abdukodir Khusanov,Uzbekistan,MF,Domestic/International Club,25,80.3,82.0,available,player_strength_realistic_cache
+Oston Urunov,Uzbekistan,DF,Top Division Club,34,77.2,69.4,available,player_strength_realistic_cache
+Odiljon Hamrobekov,Uzbekistan,GK,National Team Pool,32,76.1,66.9,available,player_strength_realistic_cache
+Jaloliddin Masharipov,Uzbekistan,MF,European League Club,22,75.5,69.1,available,player_strength_realistic_cache
+Mohammed Kudus,Ghana,FW,Multiple European Clubs,27,79.9,95.2,available,player_strength_realistic_cache
+Thomas Partey,Ghana,MF,Domestic/International Club,30,80.2,91.8,available,player_strength_realistic_cache
+Iñaki Williams,Ghana,DF,Top Division Club,29,78.0,89.1,available,player_strength_realistic_cache
+Jordan Ayew,Ghana,GK,National Team Pool,34,76.7,66.1,available,player_strength_realistic_cache
+Alexander Djiku,Ghana,MF,European League Club,23,73.5,61.4,available,player_strength_realistic_cache
+Alexander Isak,Sweden,FW,Multiple European Clubs,26,84.3,115.3,available,player_strength_realistic_cache
+Dejan Kulusevski,Sweden,MF,Domestic/International Club,28,85.2,110.8,available,player_strength_realistic_cache
+Viktor Gyökeres,Sweden,DF,Top Division Club,27,82.7,96.2,available,player_strength_realistic_cache
+Emil Forsberg,Sweden,GK,National Team Pool,22,79.3,91.0,available,player_strength_realistic_cache
+Victor Lindelöf,Sweden,MF,European League Club,28,79.5,79.9,available,player_strength_realistic_cache
+Ellyes Skhiri,Tunisia,FW,Multiple European Clubs,34,83.5,115.4,available,player_strength_realistic_cache
+Hannibal Mejbri,Tunisia,MF,Domestic/International Club,31,81.3,99.3,available,player_strength_realistic_cache
+Youssef Msakni,Tunisia,DF,Top Division Club,22,78.2,88.0,available,player_strength_realistic_cache
+Montassar Talbi,Tunisia,GK,National Team Pool,33,79.0,80.8,available,player_strength_realistic_cache
+Aïssa Laïdouni,Tunisia,MF,European League Club,23,75.0,67.0,available,player_strength_realistic_cache
+Salem Al-Dawsari,Saudi Arabia,FW,Multiple European Clubs,27,78.6,82.5,available,player_strength_realistic_cache
+Firas Al-Buraikan,Saudi Arabia,MF,Domestic/International Club,32,78.1,81.2,available,player_strength_realistic_cache
+Mohamed Kanno,Saudi Arabia,DF,Top Division Club,22,76.1,61.5,available,player_strength_realistic_cache
+Ali Al-Bulaihi,Saudi Arabia,GK,National Team Pool,28,74.9,62.8,available,player_strength_realistic_cache
+Saud Abdulhamid,Saudi Arabia,MF,European League Club,31,74.3,52.7,available,player_strength_realistic_cache
+Akram Afif,Qatar,FW,Multiple European Clubs,35,78.8,74.8,available,player_strength_realistic_cache
+Almoez Ali,Qatar,MF,Domestic/International Club,23,78.2,79.9,available,player_strength_realistic_cache
+Hassan Al-Haydos,Qatar,DF,Top Division Club,29,75.0,76.6,available,player_strength_realistic_cache
+Boualem Khoukhi,Qatar,GK,National Team Pool,26,75.5,79.2,available,player_strength_realistic_cache
+Meshaal Barsham,Qatar,MF,European League Club,26,72.8,57.4,available,player_strength_realistic_cache
+Aymen Hussein,Iraq,FW,Multiple European Clubs,31,78.7,89.6,available,player_strength_realistic_cache
+Ali Jasim,Iraq,MF,Domestic/International Club,24,77.7,88.7,available,player_strength_realistic_cache
+Ibrahim Bayesh,Iraq,DF,Top Division Club,25,75.0,69.3,available,player_strength_realistic_cache
+Amir Al-Ammari,Iraq,GK,National Team Pool,33,73.7,67.9,available,player_strength_realistic_cache
+Zidane Iqbal,Iraq,MF,European League Club,25,74.4,78.5,available,player_strength_realistic_cache
+Mousa Al-Taamari,Jordan,FW,Multiple European Clubs,27,78.5,87.0,available,player_strength_realistic_cache
+Yazan Al-Naimat,Jordan,MF,Domestic/International Club,24,76.7,68.1,available,player_strength_realistic_cache
+Nizar Al-Rashdan,Jordan,DF,Top Division Club,28,74.5,69.7,available,player_strength_realistic_cache
+Ihsan Haddad,Jordan,GK,National Team Pool,30,71.7,55.5,available,player_strength_realistic_cache
+Yazeed Abulaila,Jordan,MF,European League Club,26,71.1,48.5,available,player_strength_realistic_cache
+Alphonso Davies,Canada,FW,Multiple European Clubs,28,83.9,116.5,available,player_strength_realistic_cache
+Jonathan David,Canada,MF,Domestic/International Club,33,81.8,91.5,available,player_strength_realistic_cache
+Tajon Buchanan,Canada,DF,Top Division Club,24,81.6,87.6,available,player_strength_realistic_cache
+Stephen Eustáquio,Canada,GK,National Team Pool,24,80.6,96.1,available,player_strength_realistic_cache
+Ismaël Koné,Canada,MF,European League Club,29,77.8,76.7,available,player_strength_realistic_cache
+Chris Wood,New Zealand,FW,Multiple European Clubs,36,73.9,66.5,available,player_strength_realistic_cache
+Liberato Cacace,New Zealand,MF,Domestic/International Club,27,70.4,51.2,available,player_strength_realistic_cache
+Marko Stamenic,New Zealand,DF,Top Division Club,25,70.4,57.4,available,player_strength_realistic_cache
+Sarpreet Singh,New Zealand,GK,National Team Pool,30,70.1,50.6,available,player_strength_realistic_cache
+Ryan Thomas,New Zealand,MF,European League Club,30,68.1,50.9,available,player_strength_realistic_cache
+Percy Tau,South Africa,FW,Multiple European Clubs,34,78.8,88.1,available,player_strength_realistic_cache
+Teboho Mokoena,South Africa,MF,Domestic/International Club,27,77.8,88.5,available,player_strength_realistic_cache
+Ronwen Williams,South Africa,DF,Top Division Club,22,77.0,76.9,available,player_strength_realistic_cache
+Evidence Makgopa,South Africa,GK,National Team Pool,31,74.4,63.5,available,player_strength_realistic_cache
+Lyle Foster,South Africa,MF,European League Club,34,74.2,61.0,available,player_strength_realistic_cache
+Edin Džeko,Bosnia and Herzegovina,FW,Multiple European Clubs,30,77.6,81.3,available,player_strength_realistic_cache
+Miralem Pjanić,Bosnia and Herzegovina,MF,Domestic/International Club,22,77.9,89.6,available,player_strength_realistic_cache
+Sead Kolašinac,Bosnia and Herzegovina,DF,Top Division Club,29,74.0,56.5,available,player_strength_realistic_cache
+Ermedin Demirović,Bosnia and Herzegovina,GK,National Team Pool,24,74.0,62.9,available,player_strength_realistic_cache
+Amar Dedić,Bosnia and Herzegovina,MF,European League Club,22,71.8,46.5,available,player_strength_realistic_cache
+Ryan Mendes,Cabo Verde,FW,Multiple European Clubs,26,77.5,91.2,available,player_strength_realistic_cache
+Bebé,Cabo Verde,MF,Domestic/International Club,31,75.0,58.0,available,player_strength_realistic_cache
+Logan Costa,Cabo Verde,DF,Top Division Club,32,73.7,63.1,available,player_strength_realistic_cache
+Jovane Cabral,Cabo Verde,GK,National Team Pool,26,71.4,46.0,available,player_strength_realistic_cache
+Vozinha,Cabo Verde,MF,European League Club,23,72.2,45.7,available,player_strength_realistic_cache
+Leandro Bacuna,Curaçao,FW,Multiple European Clubs,32,75.2,72.9,available,player_strength_realistic_cache
+Juninho Bacuna,Curaçao,MF,Domestic/International Club,23,73.2,50.0,available,player_strength_realistic_cache
+Vurnon Anita,Curaçao,DF,Top Division Club,34,72.2,48.1,available,player_strength_realistic_cache
+Brandley Kuwas,Curaçao,GK,National Team Pool,31,69.8,45.6,available,player_strength_realistic_cache
+Cuco Martina,Curaçao,MF,European League Club,25,67.0,23.8,available,player_strength_realistic_cache
+Duckens Nazon,Haiti,FW,Multiple European Clubs,26,73.3,60.2,available,player_strength_realistic_cache
+Frantzdy Pierrot,Haiti,MF,Domestic/International Club,28,74.1,65.3,available,player_strength_realistic_cache
+Jean-Kévin Duverne,Haiti,DF,Top Division Club,22,72.0,45.6,available,player_strength_realistic_cache
+Danley Jean Jacques,Haiti,GK,National Team Pool,23,70.2,45.7,available,player_strength_realistic_cache
+Bryan Alceus,Haiti,MF,European League Club,29,67.8,26.5,available,player_strength_realistic_cache
